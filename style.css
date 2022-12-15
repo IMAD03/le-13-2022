@@ -1,0 +1,28 @@
+body{
+    background-color:#1772cc;
+    font-family: 'Roboto', sans-serif;
+  
+}
+h1{
+    color: rgba(60, 60, 119, 0.823);
+    font-family: 'Roboto', sans-serif;
+}
+#section1{
+    text-align: center;
+    border: 5px solid black;
+    width: 1300px;
+}
+p{
+   font-weight: 400;
+}
+#btn1{
+    width: 30%;
+    height: 20px;
+    height:50px;
+    background-color: rgba(68, 194, 43, 0.744);
+    margin:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 50px;
+}
